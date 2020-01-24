@@ -24,16 +24,22 @@ description: >- # this means to ignore newlines until "baseurl:"
   Passionate about people, design, technology and building thing | Team Leader at Zup Innovation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://andreganske.com.br" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: andreganske
-github_username:  andreganske
 
 google_analytics: UA-42747997-3
+
+minima:
+  social_links:
+    twitter: andreganske
+    github: andreganske
+    linkedin: andreganske
 
 # Build settings
 theme: minima
 
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 defaults:
   -
