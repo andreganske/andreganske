@@ -1,6 +1,6 @@
 ---
 title:  "O que faz um Scrum Master? Entendendo seu papel"
-date:   2020-01-224 12:00:00 -0000
+date:   2020-01-24 12:00:00 -0000
 categories: scrum master
 ---
 
