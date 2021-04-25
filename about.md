@@ -2,4 +2,8 @@
 layout: default
 title: About
 ---
-# About page
+# Boas vindas!
+
+Sou Andre Gerson Ganske
+
+![Andre Ganske](/assets/img/about/andreganske.png)
