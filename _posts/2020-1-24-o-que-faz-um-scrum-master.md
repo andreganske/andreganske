@@ -4,7 +4,7 @@ date:   2020-01-24 12:00:00 -0000
 categories: scrum master
 ---
 
-![Pessoa mexendo em computar onde a tela mostra a fra Scrum Master](../../../assets/img/posts/2020/01/24/0.jpg)
+![Pessoa mexendo em computar onde a tela mostra a frase Scrum Master](../../../assets/img/posts/2020/01/24/0.jpg)
 
 Com a popularização do termo, vemos um crescimento exponencial na oferta de empregos e de pessoas se apresentando como Scrum Master no LinkedIn. Mas você já parou para pensar a fundo o que faz 
 
