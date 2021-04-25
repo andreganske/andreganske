@@ -4,9 +4,3 @@
 
 layout: home
 ---
-
-# Boas vindas!
-
-
-
-# Confira meus artigos
